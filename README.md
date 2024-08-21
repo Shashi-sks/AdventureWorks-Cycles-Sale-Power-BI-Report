@@ -62,9 +62,34 @@ This repository contains the code and documentation for the Business Intelligenc
 <img width="337" alt="image" src="https://github.com/user-attachments/assets/dcccf9ad-fcbc-4f65-9742-98ee2c8d1882">
 <img width="265" alt="image" src="https://github.com/user-attachments/assets/b6cff477-9718-4d42-8774-fcf094812b1a">
         
-### A card visual was used to represent count of customers.
+# A card visual was used to represent Insights
+
+### 1)Excel Dashboard
+<img width="1002" alt="image" src="https://github.com/user-attachments/assets/77c8a8f6-b11b-43b5-a6f4-bd83141e2f52">
+
+- REVENUE = 24.9 M
+- PROFIT = 10.5 M
+- ORDERS = 25.2 K
+- RETURN RATE = 2.2 %
+- Table of top 10 product
 
 
+### 2)Product Details
+<img width="1001" alt="image" src="https://github.com/user-attachments/assets/1bdcb92f-bd19-4d7d-b225-705b59051d23">
+
+- Monthly Orders vs. Target
+- Monthly Revenue vs. Target
+- Monthly Profit vs. Target
+
+
+### 3)Customer Details
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/8da243ad-9d2d-4e1f-96bc-16bf73e17794">
+
+
+- Total Number of Customers = 17.4K
+- REVENUE PER CUSTOMER = 1431
+- Order by high income level = 2.8K 
+- Top Customer (by Revenue): Mr. Maurice Shan
 
 
         
