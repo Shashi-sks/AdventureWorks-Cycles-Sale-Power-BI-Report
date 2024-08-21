@@ -28,7 +28,7 @@ This repository contains the code and documentation for the Business Intelligenc
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present except column named " BirthDate & prefix" in coustmer Lookup csv.
       
-- Step 5 : List measure was created. 
+- Step 5 : List measure created. 
 
 <img width="332" alt="image" src="https://github.com/user-attachments/assets/2b943ecc-229d-4df3-b00e-5215f52a79f8">
 
